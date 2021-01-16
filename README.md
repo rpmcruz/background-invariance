@@ -23,7 +23,7 @@ The model (e.g. classifier, regressor, whatever) tries to minimize a loss and a 
 In the code, we focused on classification, but the framework could be used for other tasks. The code uses TensorFlow 2.x.
 
 1. `train1.py`, `train2.py`, `train3.py`: these are the training files. For better control over the optimization process and debugging, we decided to divide the optimization process in three phases. *Phase 1:* train only the classifier. *Phase 2:* train the mask generator. *Phase 3:* train both the classifier and background generator adversarially.
-2. `train_att.py`: this is a model from the literature we used to contrast our work against (implemented by ourselves). See: [*Diagnose like a Radiologist: Attention Guided Convolutional Neural Network for Thorax Disease Classification*](https://arxiv.org/abs/1801.09927).
+2. `train_att.py`: this is a model from the literature we used to contrast our work against (implemented by ourselves). See: [*Diagnose like a Radiologist: Attention Guided Convolutional Neural Network for Thorax Disease Classification*](https://arxiv.org/abs/1801.09927) (2018).
 3. `mybackgrounds.py`, `mydatagen.py`, `mydatasets.py`: auxiliary files that automatically download the datasets (not all used in the paper) and, in soma cases, create testing versions with new backgrounds.
 4. `mymodels.py`: auxiliary file with the architectures.
 5. `evaluate.py` and `evaluate_seg.py`: simple evaluation procedures.
