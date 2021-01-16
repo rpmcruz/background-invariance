@@ -8,11 +8,11 @@ Companion code to the publication:
 
 ***The idea in a nutshell:***
 
-***Table:*** Background changes can produce wild disparate accuracies (%)
+**Table:** Background changes can produce wild disparate accuracies (%)
 
 ![Results overview](results.png)
 
-***Figure:*** Proposed adversarial background augmentation during training.
+**Figure:** Proposed adversarial background augmentation during training.
 
 ![Adversarial framework](model.png)
 
