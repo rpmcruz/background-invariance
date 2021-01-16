@@ -30,4 +30,4 @@ In the code, we focused on classification, but the framework could be used for o
 
 ***Contact:***
 
-Ricardo Cruz, ricardo.pdm.cruz@gmail.com, rpmcruz.github.io.
+Ricardo Cruz, ricardo.pdm.cruz@gmail.com, http://rpmcruz.github.io.
