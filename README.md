@@ -2,7 +2,7 @@
 
 Companion code to the publication:
 
-* Background Invariance by Adversarial Learning by Ricardo Cruz, Ricardo M. Prates, Eduardo F. Simas Filho, Joaquim F. Pinto Costa and Jaime S. Cardoso. ICPR 2020. **(to appear)**
+* Background Invariance by Adversarial Learning by Ricardo Cruz, Ricardo M. Prates, Eduardo F. Simas Filho, Joaquim F. Pinto Costa and Jaime S. Cardoso. [ICPR 2020](https://www.micc.unifi.it/icpr2020/). **(to appear)**
 
 ***Abstract:*** Convolutional neural networks are shown to be vulnerable to changes in the background. The proposed method is an end-to-end method that augments the training set by introducing new backgrounds during the training process. These backgrounds are created by a generative network that is trained as an adversary to the model. A case study is explored based on overhead power line insulators detection using a drone -- a training set is prepared from photographs taken inside a laboratory and then evaluated using photographs that are harder to collect from outside the laboratory. The proposed method improves performance by over 20% for this case study.
 
