@@ -28,6 +28,4 @@ In the code, we focused on classification, but the framework could be used for o
 4. `mymodels.py`: auxiliary file with the architectures.
 5. `evaluate.py` and `evaluate_seg.py`: simple evaluation procedures.
 
-***Contact:***
-
-Ricardo Cruz, ricardo.pdm.cruz@gmail.com, http://rpmcruz.github.io.
+***Contact:*** Ricardo Cruz, ricardo.pdm.cruz@gmail.com, http://rpmcruz.github.io.
